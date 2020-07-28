@@ -13,3 +13,8 @@ header h1 {
     color: white;
     background-color: mediumspringgreen;
 }
+
+#brushesimg {
+    display: inline-block;
+    margin: 25px 10px;
+}
