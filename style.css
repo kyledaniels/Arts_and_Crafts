@@ -16,5 +16,9 @@ header h1 {
 
 #brushesimg {
     display: inline-block;
-    margin: 25px 10px;
+    margin:auto;
+}
+
+#firstcaption {
+    font-size: large;
 }
