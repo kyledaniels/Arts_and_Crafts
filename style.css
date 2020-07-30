@@ -51,23 +51,23 @@ header h1 {
     color:blue;
 }
 
-#frames {
+#paint {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: bold;
     color: white;
-    background-color: lightcoral;
+    background-color:skyblue;
 }
 
-#framesimg {
+#paintimg {
     display: inline-block;  
 }
 
-#secondcaption {
+#thirdcaption {
     font-size: large;
 }
 
-#span-two {
+#span-three {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color:blue;
